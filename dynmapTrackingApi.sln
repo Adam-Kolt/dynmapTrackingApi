@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.17
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{5DD5E4FA-CB73-4610-85AB-557B54E96AA9}") = "dynmapTrackingApi", "dynmapTrackingApi\dynmapTrackingApi.nuproj", "{58E41DBB-2166-49C2-8083-61EDB1807768}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58E41DBB-2166-49C2-8083-61EDB1807768}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58E41DBB-2166-49C2-8083-61EDB1807768}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58E41DBB-2166-49C2-8083-61EDB1807768}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58E41DBB-2166-49C2-8083-61EDB1807768}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B22B199A-4AB6-4B4A-9833-C6805501D924}
+	EndGlobalSection
+EndGlobal
